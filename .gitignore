@@ -20,6 +20,9 @@ model/weights/*.pt
 .vscode/
 *.swp
 
+# Claude Code (config locale — non public)
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
