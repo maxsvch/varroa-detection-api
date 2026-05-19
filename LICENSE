@@ -1,0 +1,79 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+our General Public Licenses are intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+  When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), to receive source code or be able to get it if you
+want it, to change the software or to give others the same freedom, and
+to know that you can do this.
+
+  Specifically, the GNU Affero General Public License is designed to
+ensure that, if you use this program to provide a service over a network,
+even if you could otherwise keep your changes private, that you make
+the source code of your modified version available to those who interact
+with it over the network. The GNU Affero General Public License requires
+that the source code be made available to all who use it.
+
+  The precise terms and conditions for copying, distribution and
+modification follow.
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "This License" refers to version 3 of the GNU Affero General Public
+License.
+
+  "The Program" refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as "you".  "Licensees" and
+"recipients" may be individuals or organizations.
+
+  To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.
+
+  A "covered work" means either the unmodified Program or a work based
+on the Program.
+
+  To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or transmitting it to private individuals for a given audience.
+Propagation includes copying, modifying, sublicensing (only under
+certain conditions), and distributing to others.
+
+  To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.  Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.
+
+  An interactive user interface displays "Appropriate Legal Notices"
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), (3) tells licensees that they
+may convey the work under this License, and (4) tells licensees how to
+view a copy of this License.  If the interface presents a list of user
+commands or other features, such as a menu, a user interface that
+"displays" these commands prominently must display "Appropriate Legal
+Notices".
+
+  For more information on the GNU Affero General Public License, see
+<https://www.gnu.org/licenses/agpl-3.0.html>.
